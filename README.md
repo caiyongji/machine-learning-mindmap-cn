@@ -19,7 +19,7 @@
   - [特征工程](#特征工程)
   - [特征选择](#特征选择)
   - [特征编码](#特征编码)
-  - [特征归一化(Normalisation)或缩放(Scaling)](#特征归一化(Normalisation)或缩放(Scaling))
+  - [特征归一化或缩放](#特征归一化或缩放)
   - [构造数据集](#构造数据集)
 - [机器学习-概念](#机器学习-概念)
   - [动机](#动机)
@@ -29,9 +29,9 @@
   - [种类](#种类)
   - [分类](#分类)
   - [学习方法](#学习方法)
-  - [分类学(Taxonomy)](#分类学(Taxonomy))
+  - [分类学](#分类学)
   - [选择标准](#选择标准)
-  - [库（python）](#库（python）)
+  - [库](#库)
 - [机器学习-过程](#机器学习-过程)
 - [机器学习-算法](#机器学习-算法)
 - [机器学习模型及神经网络模型](#机器学习模型及神经网络模型)
@@ -65,7 +65,7 @@
 
 
 # 机器学习-概念
-![img](./img/pending.jpg)
+![img](./img/Concepts/concepts.png)
 
 ## 动机
 ![img](./img/Concepts/动机（Motivation）.png)
@@ -88,13 +88,13 @@
 ## 学习方法
 ![img](./img/Concepts/学习方法.png)
 
-## 分类学(Taxonomy)
+## 分类学
 ![img](./img/Concepts/分类学(Taxonomy).png)
 
 ## 选择标准
 ![img](./img/Concepts/选择标准.png)
 
-## 库（python）
+## 库
 ![img](./img/Concepts/库（python）.png)
 
 
