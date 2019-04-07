@@ -112,14 +112,18 @@
 ## 方向
 ![img](./img/Process/方向.png)
 
-## 部署和运营-基础架构
-![img](./img/Process/部署和运营-基础架构.png)
+## 数据
+![img](./img/Process/数据.png)
 
 ## 模型-成本函数-优化-调参-结果和基准-扩展
 ![img](./img/Process/模型-成本函数-优化-调参-结果和基准-扩展.png)
 
-## 数据
-![img](./img/Process/数据.png)
+## 部署和运营-基础架构
+![img](./img/Process/部署和运营-基础架构.png)
+
+
+
+
 
 # 机器学习-算法
 ![img](./img/pending.jpg)
