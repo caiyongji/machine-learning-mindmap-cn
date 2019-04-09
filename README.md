@@ -1,8 +1,7 @@
 # machine-learning-mindmap-cn
 
-
-本项目是在[Daniel Formoso](https://github.com/dformoso/machine-learning-mindmap)的github项目基础之上进行翻译、批注、整理等二次创作。除原英文的翻译外，我又额外添加了一些补充说明以及更易于中国人理解的说明标注。如有发现翻译纰漏或更好的建议，欢迎与caiyongji联系。
-
+机器学习导图系列教程旨在帮助引导开发者对机器学习知识网络有一个系统的概念，其中有些具体释义并未完善，需要开发者自己探索才能对具体知识有深入的掌握。本项目灵感来自[Daniel Formoso](https://github.com/dformoso/machine-learning-mindmap)的github开源项目。本文作者对其项目进行翻译、整理、批注等二次创作，其中不乏生僻的数学名词，对于没有留过学的作者来说费了很多功夫。我又将导图整理成了知识卡片，方便大家查看。由于机器学习的知识网络很大，导致完整的导图过大，文章中的图片可能经过压缩，如需完整图片可查看github项目**machine-learning-mindmap-cn**下载高清原图。本系列还在持续创作中，你的点赞、留言、star都会成为我持续创作的动力。  
+如有发现翻译纰漏或更好的建议，欢迎与caiyongji联系。
 
 > TIPS: 图片略大，请耐心等待或直接下载。
 
