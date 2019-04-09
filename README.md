@@ -39,6 +39,15 @@
   - [模型-成本函数-优化-调参-结果和基准-扩展](#模型-成本函数-优化-调参-结果和基准-扩展)
   - [部署和运营-基础架构](#部署和运营-基础架构)
 - [机器学习-算法](#机器学习-算法)
+  - [线性代数](#线性代数)
+  - [统计](#统计)
+  - [优化](#优化)
+  - [正则化](#正则化)
+  - [函数](#函数)
+  - [概率](#概率)
+  - [分布](#分布)
+  - [信息论](#信息论)
+  - [密度估计](#密度估计)
 - [机器学习模型及神经网络模型](#机器学习模型及神经网络模型)
 
 ### 关注公众号查看mindmap文本翻译、注释、说明及引用 ###
@@ -122,11 +131,35 @@
 ![img](./img/Process/部署和运营-基础架构.png)
 
 
-
-
-
 # 机器学习-算法
-![img](./img/pending.jpg)
+![img](./img/Mathematics/mathematics.png)
+
+## 线性代数
+![img](./img/Mathematics/线性代数.png)
+
+## 统计
+![img](./img/Mathematics/统计.png)
+
+## 优化
+![img](./img/Mathematics/优化.png)
+
+## 正则化
+![img](./img/Mathematics/正则化.png)
+
+## 函数
+![img](./img/Mathematics/函数.png)
+
+## 概率
+![img](./img/Mathematics/概率.png)
+
+## 分布
+![img](./img/Mathematics/分布.png)
+
+## 信息论
+![img](./img/Mathematics/信息论.png)
+
+## 密度估计
+![img](./img/Mathematics/密度估计.png)
 
 # 机器学习模型及神经网络模型
 ![img](./img/pending.jpg)
