@@ -48,6 +48,17 @@
   - [信息论](#信息论)
   - [密度估计](#密度估计)
 - [机器学习模型及神经网络模型](#机器学习模型及神经网络模型)
+  - [回归](#回归)
+  - [贝叶斯](#贝叶斯)
+  - [降维](#降维)
+  - [实例](#实例)
+  - [决策树](#决策树)
+  - [聚类](#聚类)
+  - [神经元与层](#神经元与层)
+  - [批量标准化与学习率](#批量标准化与学习率)
+  - [初始化权重](#初始化权重)
+  - [反向传播](#反向传播)
+  - [激活函数](#激活函数)
 
 ### 关注公众号查看mindmap文本翻译、注释、说明及引用 ###
 
@@ -161,7 +172,28 @@
 ![img](./img/Mathematics/密度估计.png)
 
 # 机器学习模型及神经网络模型
-![img](./img/pending.jpg)
+![img](./img/ModelAndNeuralNetwork/modelAndNeuralNetwork.png)
 
-
+## 回归
+![img](./img/ModelAndNeuralNetwork/回归.png)
+## 贝叶斯
+![img](./img/ModelAndNeuralNetwork/贝叶斯.png)
+## 降维
+![img](./img/ModelAndNeuralNetwork/降维.png)
+## 实例
+![img](./img/ModelAndNeuralNetwork/实例(Instance).png)
+## 决策树
+![img](./img/ModelAndNeuralNetwork/决策树.png)
+## 聚类
+![img](./img/ModelAndNeuralNetwork/聚类.png)
+## 神经元与层
+![img](./img/ModelAndNeuralNetwork/神经元与层(Layer).png)
+## 批量标准化与学习率
+![img](./img/ModelAndNeuralNetwork/批量标准化与学习率.png)
+## 初始化权重
+![img](./img/ModelAndNeuralNetwork/初始化权重.png)
+## 反向传播
+![img](./img/ModelAndNeuralNetwork/反向传播.png)
+## 激活函数
+![img](./img/ModelAndNeuralNetwork/激活函数.png)
 
